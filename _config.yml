@@ -86,14 +86,14 @@ analytics:
 author:
   name             : "Shibo Li"
   avatar           : "profile.jpg"
-  bio              : "Data Scientist"
-  location         :
-  employer         :
+  bio              : "Associate Professor"
+  location         : "Shenzhen, China"
+  employer         : "SIAT, Chinese Academy of Sciences"
   pubmed           :
   orcid            : "https://orcid.org/0000-0001-8398-4102"
   googlescholar    : "https://scholar.google.com/citations?user=Zsfdxk4AAAAJ&hl=en"
-  email            : "shiboli2016@126.com, sb.li@siat.ac.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "sb.li@siat.ac.cn"
+  researchgate     : "https://www.researchgate.net/profile/Shibo-Li-14"
   uri              :
   bitbucket        :
   codepen          :

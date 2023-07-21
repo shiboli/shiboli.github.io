@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
+Welcome! I am an associate professor of Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, received bachelor's and master's degrees from Beihang University in 2009 and 2012, and doctorate degree from University of Alabama in 2016. He has long been engaged in researches on artificial intelligence diagnosis, biomechanical analysis, and multi-disciplinary interaction of tissue instruments in medical robots. He has presided over a number of national and local scientific research projects, including the National Natural Youth Project, the national key research and development digital diagnosis and treatment special sub-project, and the Shenzhen Basic research key project. Published 19 high-level papers, as the first author or corresponding author in the international top academic journals and academic conferences MAMS, CBM, CMIG, MICCAI, IEEE ICRA and many other academic papers, won the Charles E. Ives Award, applied for 11 invention patents.
+
+<!-- I am also an affiliated
 researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
 and a research collaborator with the 
 [Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
@@ -27,4 +28,4 @@ focused on civil conflict, it also examines contentious political phenomena
 including terrorism and economic statecraft, and develops new measures of
 institutions in international relations. I have [teaching](teaching) experience
 in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+instructor with [The Carpentries](https://carpentries.org). -->

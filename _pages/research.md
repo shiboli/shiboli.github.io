@@ -7,7 +7,8 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My academic research falls into two main areas: understanding the influence of
+working on it
+<!-- My academic research falls into two main areas: understanding the influence of
 geography on actor behavior before, during, and after civil conflict, and
 developing new tools to improve the study of institutions (both formal and
 informal) in peace and conflict. One strand of research in this first area
@@ -27,7 +28,7 @@ economic interdependence and illicit economic exchange.
 
 In a new avenue of research, I leverage social media data to explore
 participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+into the early stages of radicalization. -->
 
 <nbsp>
 

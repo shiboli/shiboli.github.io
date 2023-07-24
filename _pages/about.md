@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an associate professor of Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences(https://www.siat.ac.cn/jgsz2016/jgdh2016/kybm2016/jcs2016/yjdy2016/rzjsyjzx2016/zxjj5). I received bachelor's and master's degrees from Beihang University in 2009 and 2012 supervised by Dr.Zhiping Qiu, and doctorate degree from University of Alabama in 2016 supervised by Dr.Samit Roy. 
+Welcome! I am an associate professor of Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. I received bachelor's and master's degrees from Beihang University in 2009 and 2012 supervised by Dr. Zhiping Qiu, and doctorate degree from University of Alabama in 2016 supervised by Dr. Samit Roy. 
 My research focuses on artificial intelligence diagnosis, biomechanical analysis, numerical methods in biomechanical and mechanobiology problems, tissue-instrument interaction. I have received fundings inculding the National Natural Youth Project, the National Key Research and Development Digital Diagnosis and Treatment Special Sub-project, the Shenzhen Basic research key project, etc. I published more than 20 papers in the international academic journals and conferences. Additionally, I hold more than 5 invention patents.
 
 <span class='anchor' id='-xl'></span>
@@ -22,8 +22,7 @@ My research focuses on artificial intelligence diagnosis, biomechanical analysis
 
 # 📝 Journal Publications
 
-
-- Shibo Li, Long Lei, Ying Hu*, Yanfang Zhang, Shijia Zhao*, Jianwei Zhang. A fully coupled framework for in silico investigation of in-stent restenosis. Computer Methods in Biomechanics and Biomedical Engineering. 2019, 22:2, 217-228.
+- Shibo Li, Long Lei, Ying Hu\*, Yanfang Zhang, Shijia Zhao\*, Jianwei Zhang. A fully coupled framework for in silico investigation of in-stent restenosis. Computer Methods in Biomechanics and Biomedical Engineering. 2019, 22:2, 217-228.
 - Shibo Li*, Samit Roy, Vinu Unnikrishnan. Modeling of fracture behavior in polymer composites using concurrent multi-scale coupling approach. Mechanics of Advanced Materials and Structures, 2018, 25(15-16): 1342-1350.
 - Long Lei, Xiaozhi Qi, Shibo Li*, Yuanyuan Yang*, Ying Hu, Bing Li, Shijia Zhao, Yanfang Zhang. Finite element analysis for fatigue behaviour of a self-expanding Nitinol peripheral stent under physiological biomechanical conditions. Computers in Biology and Medicine, 2019, 104: 205-214. 
 - Tan Z, Yang K, Sun Y, Wu B, Li S*, Hu Y, Tao H*. An Automatic Classification Method for Adolescent Idiopathic Scoliosis Based on U-net and Support Vector Machine. Journal of Imaging Science and Technology, 2019,63(6). 

@@ -23,29 +23,29 @@ My research focuses on artificial intelligence diagnosis, biomechanical analysis
 # 📝 Journal Publications
 
 - Shibo Li, Long Lei, Ying Hu\*, Yanfang Zhang, Shijia Zhao\*, Jianwei Zhang. A fully coupled framework for in silico investigation of in-stent restenosis. Computer Methods in Biomechanics and Biomedical Engineering. 2019, 22:2, 217-228.
-- Shibo Li*, Samit Roy, Vinu Unnikrishnan. Modeling of fracture behavior in polymer composites using concurrent multi-scale coupling approach. Mechanics of Advanced Materials and Structures, 2018, 25(15-16): 1342-1350.
-- Long Lei, Xiaozhi Qi, Shibo Li*, Yuanyuan Yang*, Ying Hu, Bing Li, Shijia Zhao, Yanfang Zhang. Finite element analysis for fatigue behaviour of a self-expanding Nitinol peripheral stent under physiological biomechanical conditions. Computers in Biology and Medicine, 2019, 104: 205-214. 
-- Tan Z, Yang K, Sun Y, Wu B, Li S*, Hu Y, Tao H*. An Automatic Classification Method for Adolescent Idiopathic Scoliosis Based on U-net and Support Vector Machine. Journal of Imaging Science and Technology, 2019,63(6). 
-- Li Ding, Yu Sun, Shibo Li*, Ying Hu, Wei Tian. Research on Spinal Canal Generation Method based on Vertebral Foramina Inpainting of Spinal CT Images by using BEGAN. Journal of Imaging Science and Technology, 2020, 64(3). 
-- Baoliang Zhao, Long Lei, Liang Xu, Shibo Li, Ying Hu*, Jianwei Zhang, Xiaojun Yang, Yue Zhang. Needle Deflection Modeling and Preoperative Trajectory Planning during Insertion into Multilayered Tissues. IEEE/ASME Transactions on Mechatronics, 2020. 
-- He Y, Zhang P, Qi X*, Zhao B, Li S, Hu Y*. Endoscopic Path Planning in Robot-Assisted Endoscopic Nasal Surgery. IEEE Access, 2020, 8: 17039–17048.
-- Abhishek Kumar, Shibo Li, Samit Roy*, Julia A. King, Greg M. Odegard. Fracture properties of nanographene reinforced EPON 862 thermoset polymer system. Composites Science and Technology, 2015.4.9, (114): 87-93.
-- Xuyang Xie, Yu Wang*, Shibo Li*, Long Lei, Yuanyuan Yang, Ying Hu. Super-Resolution reconstruction of Bone Micro-Structure Micro-CT Image based on Auto-Encoder Structure. 2019 IEEE International Conference on Robotics and Biomimetics. December 6-8, 2019, Dali, Yunnan Province, China.
-- Shibo Li, Long Lei, Ying Hu, Yucheng He*, Yu Sun* and Yimin Zhou. A GPU parallelization scheme for 3D agent-based simulation of in-stent restenosis. 2019 IEEE International Conference on Cyborg and Bionic Systems. September 18-20, 2019, Munich, Germany.
+- Shibo Li\*, Samit Roy, Vinu Unnikrishnan. Modeling of fracture behavior in polymer composites using concurrent multi-scale coupling approach. Mechanics of Advanced Materials and Structures, 2018, 25(15-16): 1342-1350.
+- Long Lei, Xiaozhi Qi, Shibo Li\*, Yuanyuan Yang\*, Ying Hu, Bing Li, Shijia Zhao, Yanfang Zhang. Finite element analysis for fatigue behaviour of a self-expanding Nitinol peripheral stent under physiological biomechanical conditions. Computers in Biology and Medicine, 2019, 104: 205-214. 
+- Tan Z, Yang K, Sun Y, Wu B, Li S\*, Hu Y, Tao H\*. An Automatic Classification Method for Adolescent Idiopathic Scoliosis Based on U-net and Support Vector Machine. Journal of Imaging Science and Technology, 2019,63(6). 
+- Li Ding, Yu Sun, Shibo Li\*, Ying Hu, Wei Tian. Research on Spinal Canal Generation Method based on Vertebral Foramina Inpainting of Spinal CT Images by using BEGAN. Journal of Imaging Science and Technology, 2020, 64(3). 
+- Baoliang Zhao, Long Lei, Liang Xu, Shibo Li, Ying Hu\*, Jianwei Zhang, Xiaojun Yang, Yue Zhang. Needle Deflection Modeling and Preoperative Trajectory Planning during Insertion into Multilayered Tissues. IEEE/ASME Transactions on Mechatronics, 2020. 
+- He Y, Zhang P, Qi X\*, Zhao B, Li S, Hu Y\*. Endoscopic Path Planning in Robot-Assisted Endoscopic Nasal Surgery. IEEE Access, 2020, 8: 17039–17048.
+- Abhishek Kumar, Shibo Li, Samit Roy\*, Julia A. King, Greg M. Odegard. Fracture properties of nanographene reinforced EPON 862 thermoset polymer system. Composites Science and Technology, 2015.4.9, (114): 87-93.
+- Xuyang Xie, Yu Wang\*, Shibo Li\*, Long Lei, Yuanyuan Yang, Ying Hu. Super-Resolution reconstruction of Bone Micro-Structure Micro-CT Image based on Auto-Encoder Structure. 2019 IEEE International Conference on Robotics and Biomimetics. December 6-8, 2019, Dali, Yunnan Province, China.
+- Shibo Li, Long Lei, Ying Hu, Yucheng He\*, Yu Sun\* and Yimin Zhou. A GPU parallelization scheme for 3D agent-based simulation of in-stent restenosis. 2019 IEEE International Conference on Cyborg and Bionic Systems. September 18-20, 2019, Munich, Germany.
 - Samit Roy, Abhishek Kumar, Shibo Li, A Nano-micro-macro-multiscale Model for Progressive Failure Prediction in Advanced Composites, in: The Structural Integrity of Carbon Fiber Composites, Springer, Cham 2017, pp. 137–169.
-- Zhiqiang Tan, Jun Li, Huiren Tao, Shibo Li*, Ying Hu*. XctNet: Reconstruction network of volumetric images from a single X-ray image. Comput. Medical Imaging Graph, 2022.
-- Shaolin Lu#, Shibo Li#, Yu Wang, Lihai Zhang, Ying Hu* and Bing Li*. Prior information-based high-resolution tomography image reconstruction from a single digitally reconstructed radiograph. Physics in Medicine & Biology. 2022.
-- Yu Wang, Shibo Li, Baoliang Zhao, Jianwei Zhang, Yuanyuan Yang*, et al. (2022). "A ResNet‐based approach for accurate radiographic diagnosis of knee osteoarthritis.” CAAI Transactions on Intelligence Technology, 1-10.
+- Zhiqiang Tan, Jun Li, Huiren Tao, Shibo Li\*, Ying Hu\*. XctNet: Reconstruction network of volumetric images from a single X-ray image. Comput. Medical Imaging Graph, 2022.
+- Shaolin Lu#, Shibo Li#, Yu Wang, Lihai Zhang, Ying Hu\* and Bing Li\*. Prior information-based high-resolution tomography image reconstruction from a single digitally reconstructed radiograph. Physics in Medicine & Biology. 2022.
+- Yu Wang, Shibo Li, Baoliang Zhao, Jianwei Zhang, Yuanyuan Yang\*, et al. (2022). "A ResNet‐based approach for accurate radiographic diagnosis of knee osteoarthritis.” CAAI Transactions on Intelligence Technology, 1-10.
 - Z. Tan, S. Li, Y. Hu, H. Tao, and L. Zhang, “Semi-XctNet: Volumetric images reconstruction network from a single projection image via semi-supervised learning,” Computers in Biology and Medicine, vol. 155, p. 106663, Mar. 2023, doi: 10.1016/j.compbiomed.2023.106663.
  
 # 💬 Conferences
 
-- Jun Li, Shibo Li*, Ying Hu*, Huiren Tao. A Self-Guided Framework for Radiology Report Generation. MICCAI, 2022.
-- Zhengjun Yu, Shibo Li*, Ying Hu, Haiyang Jin* and Gang Yu. Switching fluctuation compensation of the multi-view optical positioning system under camera occlusion. IEEE International Conference on Real-time Computing and Robotics. July 15-19, 2021, Xining, China.
-- Liang Xu, Baoliang Zhao*, Long Lei, Shibo Li, Ying Hu, Peng Zhang*, Yue Zhang, Xiaojun Yang. Needle Deflection Modeling and Verification during Insertion into Soft Tissue. IEEE International Conference on Cyborg and Bionic Systems, Munich, 2019.9.18-2019.9.20.
-- Jinhang  Li, Shibo Li*, Zili Yang, Tailin Wu, Ying Hu. 2022. An Automatic Scoliosis Diagnosis Platform Based on Deep Learning Approach. 2022 4th Asia Pacific Information Technology Conference (APIT 2022), January 14-16, 2022, Bangkok, Tailand.
-- Xiale Lin, Lei Long, Shibo Li*, Xiaozhi Qi, Ying Hu, Bing Li and Jianwei Zhang. Design and Analysis of Experimental Device for Fatigue Test of the Lower Limb Vascular Stent. IEEE/ICIA, August 11-14, 2018, Wuyi Mountains, Fujian, China.
-- Yanru Miao, Yu Sun, Shibo Li, and Ying Hu*. Spinal Neoplasm Image Inpainting with Deep Convolutional Neutral Networks. 2019 IEEE International Conference on Robotics and Biomimetics. December 6-8, 2019, Dali, Yunnan Province, China.
+- Jun Li, Shibo Li\*, Ying Hu\*, Huiren Tao. A Self-Guided Framework for Radiology Report Generation. MICCAI, 2022.
+- Zhengjun Yu, Shibo Li\*, Ying Hu, Haiyang Jin\* and Gang Yu. Switching fluctuation compensation of the multi-view optical positioning system under camera occlusion. IEEE International Conference on Real-time Computing and Robotics. July 15-19, 2021, Xining, China.
+- Liang Xu, Baoliang Zhao\*, Long Lei, Shibo Li, Ying Hu, Peng Zhang\*, Yue Zhang, Xiaojun Yang. Needle Deflection Modeling and Verification during Insertion into Soft Tissue. IEEE International Conference on Cyborg and Bionic Systems, Munich, 2019.9.18-2019.9.20.
+- Jinhang  Li, Shibo Li\*, Zili Yang, Tailin Wu, Ying Hu. 2022. An Automatic Scoliosis Diagnosis Platform Based on Deep Learning Approach. 2022 4th Asia Pacific Information Technology Conference (APIT 2022), January 14-16, 2022, Bangkok, Tailand.
+- Xiale Lin, Lei Long, Shibo Li\*, Xiaozhi Qi, Ying Hu, Bing Li and Jianwei Zhang. Design and Analysis of Experimental Device for Fatigue Test of the Lower Limb Vascular Stent. IEEE/ICIA, August 11-14, 2018, Wuyi Mountains, Fujian, China.
+- Yanru Miao, Yu Sun, Shibo Li, and Ying Hu\*. Spinal Neoplasm Image Inpainting with Deep Convolutional Neutral Networks. 2019 IEEE International Conference on Robotics and Biomimetics. December 6-8, 2019, Dali, Yunnan Province, China.
 
 <span class='anchor' id='-ryjx'></span>
 
@@ -55,7 +55,7 @@ and a research collaborator with the
 [Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
 
 I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
+[University \*of\* North Carolina \*at* Chapel Hill](https://www.unc.edu) and my
 B.A. in Political Science from [Haverford College](https://www.haverford.edu).
 My academic work has been [published](publications) or is forthcoming in
 *International Studies Quarterly*, *Conflict Management and Peace Science*,

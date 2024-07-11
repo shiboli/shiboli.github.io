@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an associate professor of Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. I received bachelor's and master's degrees from Beihang University in 2009 and 2012 supervised by Dr. Zhiping Qiu, and doctorate degree from University of Alabama in 2016 supervised by Dr. Samit Roy. 
-My research focuses on artificial intelligence diagnosis, biomechanical analysis, numerical methods in biomechanical and mechanobiology problems, tissue-instrument interaction. I have received fundings inculding the National Natural Youth Project, the National Key Research and Development Digital Diagnosis and Treatment Special Sub-project, the Shenzhen Basic research key project, etc. I published more than 20 papers in the international academic journals and conferences. Additionally, I hold more than 5 invention patents.
+I am an Associate Professor at the School of Automotive and Transportation Engineering, Shenzhen Polytechnic University. I received my bachelor's and master's degrees from Beihang University in 2009 and 2012, respectively, under the supervision of Dr. Zhiping Qiu. In 2016, I earned my doctorate from the University of Alabama, where I was supervised by Dr. Samit Roy.
+
+From 2017 to 2024, I worked as a Principal Investigator at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. My research focuses on artificial intelligence diagnosis, biomechanical analysis, numerical methods in biomechanical and mechanobiology problems, and tissue-instrument interaction.
+
+I have been awarded funding from prestigious sources, including the National Natural Youth Project, the National Key Research and Development Digital Diagnosis and Treatment Special Sub-project, and the Shenzhen Basic Research Key Project. I have published over 20 papers in international academic journals and conferences and hold more than five invention patents.
 
 <span class='anchor' id='-xl'></span>
 
@@ -37,6 +40,8 @@ My research focuses on artificial intelligence diagnosis, biomechanical analysis
 - Shaolin Lu#, Shibo Li#, Yu Wang, Lihai Zhang, Ying Hu\* and Bing Li\*. Prior information-based high-resolution tomography image reconstruction from a single digitally reconstructed radiograph. Physics in Medicine & Biology. 2022.
 - Yu Wang, Shibo Li, Baoliang Zhao, Jianwei Zhang, Yuanyuan Yang\*, et al. (2022). "A ResNet‐based approach for accurate radiographic diagnosis of knee osteoarthritis.” CAAI Transactions on Intelligence Technology, 1-10.
 - Z. Tan, S. Li, Y. Hu, H. Tao, and L. Zhang, “Semi-XctNet: Volumetric images reconstruction network from a single projection image via semi-supervised learning,” Computers in Biology and Medicine, vol. 155, p. 106663, Mar. 2023, doi: 10.1016/j.compbiomed.2023.106663.
+- Shibo Li, Xin Zhong, Yuanyuan Yang, Xiaozhi Qi, Ying Hu*, and Xiaojun Yang*, “Force-position hybrid compensation control for path deviation in robot-assisted bone drilling,” Sensors, vol. 23, no. 16, p. 7307, Aug. 21, 2023.
+- Shaolin Lu, Yuanyuan Yang, Shibo Li, Lihai Zhang, Bin Shi, Dong Zhang, Bing Li, Ying Hu, "Preoperative Virtual Reduction Planning Algorithm of Fractured Pelvis Based on Adaptive Templates," in IEEE Transactions on Biomedical Engineering, vol. 70, no. 10, pp. 2943-2954, Oct. 2023, doi: 10.1109/TBME.2023.3272007.
  
 # 💬 Conferences
 
